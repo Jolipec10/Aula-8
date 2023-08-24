@@ -1,0 +1,43 @@
+// this is a js file
+// João Felipe M. F.
+
+/*
+//A1: a. false
+      b. false
+      c. true
+      d. boolean
+
+//2: falta chamar o método number, vai ser impresso os dois numeros um ao lado do outro.
+
+//3: 
+
+/*
+//B1:
+let usuario = Number(prompt("Qual a sua idade?"));
+let melhorAmiga = Number("Qual a idade da sua melhor amiga?");
+console.log("Sua idade é maior do que a do seu melhor amigo?",(usuario > melhorAmigo);
+console.log(usuario - melhorAmigo);
+*/
+
+/*
+//B2:
+let numero = Number
+let número = 10;
+console.log(10 % 2);
+*/
+/*
+//B3:
+let idade = Number(prompt("Qual a sua idade?_"));
+let idadeMeses = idade * 12;
+let idadeDias = idadeMeses * 30;
+let idadeHoras = idadeDias *
+*/
+
+//B4:
+let numeroUm = Number(prompt("Digite um numero"));
+let numeroDois = Number(prompt("Digite outro numero"));
+
+console.log("O primeiro numero é igual ao segundo?",(numeroUm > numeroDois));
+console.log("O primeiro numero é igual ao segundo?",(numeroUm === numeroDois));
+console.log("O primeiro numero é igual ao segundo?", Boolean(numeroUm % numeroDois));
+console.log("O primeiro numero é igual ao segundo?", Boolean(numeroDois % numeroUm));
